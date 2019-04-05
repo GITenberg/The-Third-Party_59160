@@ -1,11 +1,16 @@
 _repo: The-Third-Party_59160
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59160-h/images/cover.jpg
 creator:
   author:
     agent_name: Holum, Lee B.
     gutenberg_agent_id: '50322'
     url: http://www.gutenberg.org/2009/agents/50322
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59160#The-Third-Party
 gutenberg_issued: '2019-03-30'
 gutenberg_type: Text
 identifiers:
